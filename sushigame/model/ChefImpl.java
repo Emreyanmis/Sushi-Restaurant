@@ -3,8 +3,8 @@ package sushigame.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import comp401sushi.IngredientPortion;
-import comp401sushi.Plate;
+import sushi.IngredientPortion;
+import sushi.Plate;
 
 public class ChefImpl implements Chef, BeltObserver {
 
