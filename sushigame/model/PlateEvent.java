@@ -1,7 +1,7 @@
 package sushigame.model;
 
 
-import comp401sushi.Plate;
+import sushi.Plate;
 
 abstract public class PlateEvent extends BeltEvent {
 	private Plate plate;
