@@ -1,8 +1,8 @@
 package sushigame.model;
 
-import comp401sushi.Plate;
-import comp401sushi.Sushi;
-import comp401sushi.Plate.Color;
+import sushi.Plate;
+import sushi.Sushi;
+import sushi.Plate.Color;
 
 public interface Chef {
 
