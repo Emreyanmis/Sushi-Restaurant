@@ -1,3 +1,3 @@
-# Sushi-Restaurant
+# Sushi-Restaurant-Game
 
 There are twenty positions on the belt, five customers sitting evenly spread out at different locations, and four opponent sushi chefs in this game. Every chef is permitted to perform and place one plate of sushi per rotation. Each chef starts with $100 in their account. When a plate of sushi is made a set on the belt, the cost of the ingredients is subtracted from the chef's account balance. When the rotate button is pressed, any spoiled sushi is removed from the belt. Then each customer evaluates the plate in front of them and may or may not decide to consume that plate. If they do consume the plate, the chef who made the plate is credited with the price of the plate.
