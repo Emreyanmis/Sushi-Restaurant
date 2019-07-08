@@ -9,7 +9,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import comp401sushi.Plate;
+import sushi.Plate;
 import sushigame.model.Belt;
 
 public class PlateMouseListener implements MouseListener {
