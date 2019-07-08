@@ -1,7 +1,7 @@
 package sushigame.view;
 
-import comp401sushi.Plate;
-import comp401sushi.Sushi;
+import sushi.Plate;
+import sushi.Sushi;
 
 public interface ChefViewListener {
 
