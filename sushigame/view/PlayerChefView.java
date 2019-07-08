@@ -19,20 +19,20 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import comp401sushi.AvocadoPortion;
-import comp401sushi.CrabPortion;
-import comp401sushi.EelPortion;
-import comp401sushi.IngredientPortion;
-import comp401sushi.Nigiri;
-import comp401sushi.Plate;
-import comp401sushi.RicePortion;
-import comp401sushi.Roll;
-import comp401sushi.Sashimi;
-import comp401sushi.SeaweedPortion;
-import comp401sushi.ShrimpPortion;
-import comp401sushi.Sushi;
-import comp401sushi.TunaPortion;
-import comp401sushi.YellowtailPortion;
+import sushi.AvocadoPortion;
+import sushi.CrabPortion;
+import sushi.EelPortion;
+import sushi.IngredientPortion;
+import sushi.Nigiri;
+import sushi.Plate;
+import sushi.RicePortion;
+import sushi.Roll;
+import sushi.Sashimi;
+import sushi.SeaweedPortion;
+import sushi.ShrimpPortion;
+import sushi.Sushi;
+import sushi.TunaPortion;
+import sushi.YellowtailPortion;
 
 public class PlayerChefView extends JPanel implements ActionListener {
 	private List<ChefViewListener> listeners;
