@@ -1,4 +1,4 @@
-package comp401sushi;
+package sushi;
 
 abstract public class IngredientImpl implements Ingredient {
 
