@@ -1,8 +1,8 @@
 package sushigame.model;
 
-import comp401sushi.PlatePriceException;
-import comp401sushi.RedPlate;
-import comp401sushi.Sashimi;
+import sushi.PlatePriceException;
+import sushi.RedPlate;
+import sushi.Sashimi;
 
 public class SushiGameModel {
 
