@@ -1,4 +1,4 @@
-package comp401sushi;
+package sushi;
 
 public class Seaweed extends IngredientImpl {
 
