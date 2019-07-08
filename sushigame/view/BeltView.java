@@ -12,7 +12,7 @@ import java.awt.event.MouseListener;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import comp401sushi.Plate;
+import sushi.Plate;
 import sushigame.model.Belt;
 import sushigame.model.BeltEvent;
 import sushigame.model.BeltObserver;
