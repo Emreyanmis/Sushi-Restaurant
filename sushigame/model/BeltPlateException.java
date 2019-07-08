@@ -1,7 +1,7 @@
 package sushigame.model;
 
 
-import comp401sushi.Plate;
+import sushi.Plate;
 
 public class BeltPlateException extends Exception {
 
