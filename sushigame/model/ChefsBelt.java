@@ -1,6 +1,6 @@
 package sushigame.model;
 
-import comp401sushi.Plate;
+import sushi.Plate;
 
 interface ChefsBelt extends Belt {
 
