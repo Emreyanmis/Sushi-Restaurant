@@ -1,13 +1,13 @@
 package sushigame.controller;
 
-import comp401sushi.BluePlate;
-import comp401sushi.GoldPlate;
-import comp401sushi.GreenPlate;
-import comp401sushi.Plate;
-import comp401sushi.PlatePriceException;
-import comp401sushi.RedPlate;
-import comp401sushi.Sushi;
-import comp401sushi.Plate.Color;
+import sushi.BluePlate;
+import sushi.GoldPlate;
+import sushi.GreenPlate;
+import sushi.Plate;
+import sushi.PlatePriceException;
+import sushi.RedPlate;
+import sushi.Sushi;
+import sushi.Plate.Color;
 import sushigame.model.AlreadyPlacedThisRotationException;
 import sushigame.model.BeltFullException;
 import sushigame.model.Chef;
