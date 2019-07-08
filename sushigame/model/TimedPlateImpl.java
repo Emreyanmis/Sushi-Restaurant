@@ -1,9 +1,9 @@
 package sushigame.model;
 
 
-import comp401sushi.Plate;
-import comp401sushi.PlatePriceException;
-import comp401sushi.Sushi;
+import sushi.Plate;
+import sushi.PlatePriceException;
+import sushi.Sushi;
 
 public class TimedPlateImpl implements TimedPlate {
 
